@@ -4,13 +4,13 @@
     {
       "type": 1,
       "id": "plugin-mock-js",
-      "name": "Mock JS",
+      "label": "Mock JS",
       "description": "Mock plugin built using the Javascript language"
     },
     {
       "type": 1,
       "id": "plugin-mock-ts",
-      "name": "Mock TS",
+      "label": "Mock TS",
       "description": "Mock plugin built using the Typescript language"
     }
   ]
