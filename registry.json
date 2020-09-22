@@ -4,7 +4,7 @@
     {
       "type": 1,
       "uuid": "2bf43fcc-50ac-4101-9740-65c207efa5ca",
-      "id": "plugin-mock-js",
+      "id": "@cloudcue/plugin-mock-js",
       "label": "Mock JS",
       "description": "Mock plugin built using the Javascript language",
       "url": "https://github.com/cloudcue/plugin-mock-js"
@@ -12,7 +12,7 @@
     {
       "type": 1,
       "uuid": "f240f15b-708a-41ba-a1ba-0979c67a62f1",
-      "id": "plugin-mock-ts",
+      "id": "@cloudcue/plugin-mock-ts",
       "label": "Mock TS",
       "description": "Mock plugin built using the Typescript language",
       "url": "https://github.com/cloudcue/plugin-mock-ts"
