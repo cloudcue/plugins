@@ -6,7 +6,8 @@
       "uuid": "2bf43fcc-50ac-4101-9740-65c207efa5ca",
       "id": "plugin-mock-js",
       "label": "Mock JS",
-      "description": "Mock plugin built using the Javascript language"
+      "description": "Mock plugin built using the Javascript language",
+      "url": "https://github.com/cloudcue/plugin-mock-js"
     },
     {
       "type": 1,
