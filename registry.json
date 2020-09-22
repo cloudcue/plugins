@@ -11,10 +11,11 @@
     },
     {
       "type": 1,
-      "uuid": "",
+      "uuid": "f240f15b-708a-41ba-a1ba-0979c67a62f1",
       "id": "plugin-mock-ts",
       "label": "Mock TS",
-      "description": "Mock plugin built using the Typescript language"
+      "description": "Mock plugin built using the Typescript language",
+      "url": "https://github.com/cloudcue/plugin-mock-ts"
     }
   ]
 }
